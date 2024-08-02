@@ -18,11 +18,11 @@ This dataset is in the public domain and was obtained from https://www.nhtsa.gov
 The project aims to investigate the factors influencing the number of fatalities in traffic crashes and construct a predictive model to accurately estimate the count of fatally injured individuals. This endeavor involves an exploratory data analysis (EDA) approach, which entails examining the dataset to uncover insights, data trends, and patterns. The goal is to pinpoint significant trends within sub-categories that align with changes in fatality rates. 
   
 **Key Objectives**  
-*Analyze and preprocess the FARS dataset.  
-*Study trends and changes in the number of traffic fatalities over a five-year period (2010 to 2015).  
-*Identify the factors that have the most substantial impact on traffic fatalities, with a focus on environmental conditions (state, road conditions, and weather) and driver-related causes (e.g., impaired driving, speeding).  
-*Explore the relationship between gender and the incidence of high fatalities.  
-*Discover how various variables correlate with changes in the number of fatalities.  
+* Analyze and preprocess the FARS dataset.  
+* Study trends and changes in the number of traffic fatalities over a five-year period (2010 to 2015).  
+* Identify the factors that have the most substantial impact on traffic fatalities, with a focus on environmental conditions (state, road conditions, and weather) and driver-related causes (e.g., impaired driving, speeding).  
+* Explore the relationship between gender and the incidence of high fatalities.  
+* Discover how various variables correlate with changes in the number of fatalities.  
   
 **Project Structure**  
 The project is organized into the following sections:
