@@ -19,9 +19,9 @@ The project aims to investigate the factors influencing the number of fatalities
   
 **Key Objectives**  
 *Analyze and preprocess the FARS dataset.  
-*Study trends and changes in the number of traffic fatalities over a five-year period (2010 to 2015). 
+*Study trends and changes in the number of traffic fatalities over a five-year period (2010 to 2015).  
 *Identify the factors that have the most substantial impact on traffic fatalities, with a focus on environmental conditions (state, road conditions, and weather) and driver-related causes (e.g., impaired driving, speeding).  
-*Explore the relationship between gender and the incidence of high fatalities.
+*Explore the relationship between gender and the incidence of high fatalities.  
 *Discover how various variables correlate with changes in the number of fatalities.  
   
 **Project Structure**  
