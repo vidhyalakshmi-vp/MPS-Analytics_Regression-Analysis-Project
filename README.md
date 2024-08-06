@@ -1,4 +1,4 @@
-# MPS-Analytics_Regression-Analysis-Project
+# Regression Analysis Project
 
 Fatality Analysis of Motor Vehicle Crashes in U.S. States [2010 – 2015]
   
